@@ -1,0 +1,35 @@
+@import url('../FontFamily/poppins.css');
+
+
+body{
+    font-family: 'Poppins' ;
+    background-image: url(../Images/BackGallery.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2{
+    margin-top: 50px;
+    text-align: center;
+    font-weight: 600;
+    color: rgb(91, 167, 84);
+    font-size: 5rem;
+    font-style: italic;
+}
+
+.historique p
+{
+    font-size: 20px;
+    font-style: italic;
+    margin: 50px 50px 50px 50px;
+}
+
+.img1
+{
+    float: left;
+}
+
+.img2
+{
+    float: right;
+}
